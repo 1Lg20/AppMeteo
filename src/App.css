@@ -1,0 +1,28 @@
+.titoloHome{
+	font-size: 220%;
+	font-weight: bolder;
+	color: #ff0000;
+}
+
+.scelta{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	background-color: #d85d10;
+	border-radius: 20px;
+	border: none;	
+}
+
+.nome{
+	text-decoration: none;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #1014d8;
+	font-size: 150%;
+}
+
+.Img{
+	width: 80%;
+}

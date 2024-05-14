@@ -1,0 +1,70 @@
+#add{
+	margin-top: 15%;
+	width: 50%;
+}
+
+.CrItem{
+	border-radius: 30px;
+	border: none;
+	background-color: #00006b99;
+	color: #ffd700;
+	text-align: center;
+	margin: 1px;
+	padding: 2px;
+}
+
+.CrItemb:hover{
+	text-decoration: underline;
+}
+
+.home{
+	border: none;
+	background-color: transparent;
+	color: #ff0000;
+}
+
+.cancella{
+	border: none;
+	background: none;
+	color: #ff0000;
+	font-size: 80%;
+}
+
+.cancella:hover, .home:hover{
+	text-decoration: underline;
+}
+
+.casella2{
+	width: 75%;
+	text-align: center;
+	border-radius: 30px;
+	border: 1px solid #ffd700;
+	padding: 2%;
+}
+
+.lente{
+	width: 100%;
+	height: 100%;
+}
+
+.cerca2{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border: none;
+	border: 1px solid #ffd700;
+	border-radius: 30px;
+	border-left: transparent;
+	background-color: #ffffff;
+	padding: 2%;
+}
+
+.titolo{
+	font-size: 150%;
+}
+
+.titolo,.titolo2{
+	text-align: center;
+	font-weight: bolder;
+	color: darkgoldenrod;
+}

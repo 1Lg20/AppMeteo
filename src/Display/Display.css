@@ -1,0 +1,59 @@
+.meteo{
+	backdrop-filter: blur(10px);
+	border: 2px solid #ffffff;
+	border-radius: 20px;
+	background-color: #0000ff55;
+}
+
+.Name{
+	color: #ffffff;
+	font-size: 150%;
+	font-weight: bolder;
+	text-transform: uppercase;
+}
+
+.Pos{
+	color: #ffffff;
+	font-size:80%;
+}
+
+.descript,.temp{
+	text-transform: uppercase;
+	color: #ffee05;
+	font-weight: bolder;
+	font-size: 120%;
+}
+
+.MeteoImg{
+	width: 20%;
+}
+
+.mis{
+	color: #ffffff;
+	font-weight: bolder;
+}
+
+.per{
+	color: #00ff00;
+	font-weight: bolder;
+}
+
+.max{
+	color: #ff0000;
+	font-weight: bolder;
+}
+
+.min{
+	color: #00ffff;
+	font-weight: bolder;
+}
+
+.vven{
+	color: #000000;
+	font-weight: bolder;
+}
+
+.umid{
+	color: #b8860b;
+	font-weight: bolder;
+}

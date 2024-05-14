@@ -1,0 +1,19 @@
+.Footer{
+	border-radius: 50px;
+	background-color: #0000ff;
+}
+
+.Img-Footer{
+	width: 30%;
+}
+
+.Img-Footer:hover{
+	cursor: pointer;
+}
+
+.text{
+	font-size: 175%;
+	font-weight: bolder;
+	color: #ffffff;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

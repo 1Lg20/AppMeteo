@@ -1,0 +1,27 @@
+.element-header{
+	width: 25%;
+}
+
+.element-header:hover{
+	cursor: pointer;
+}
+
+.button-header{
+	background: none;
+	border: none;
+	text-decoration: underline;
+	text-align: center;
+}
+
+.testo{
+	font-size: 130%;
+	font-weight: bolder;
+	color: #000000;
+	text-align: center;
+}
+
+.NavBar{
+	backdrop-filter: blur(8px);
+	border-radius: 50px;
+	border: 1px solid #ffffff;
+}

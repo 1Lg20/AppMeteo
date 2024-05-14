@@ -1,5 +1,5 @@
 # App Meteo
-Permette la ricerca per città o per coordinate
+Permette di ottenere le condizioni meteo di una città o di un luogo indicato da delle coordiante
 
 # Avviare la web app
 -Scaricare il progetto
